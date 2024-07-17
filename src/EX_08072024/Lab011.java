@@ -21,5 +21,11 @@ public class Lab011 {
         a*=10; //a*10
 
         System.out.println(a+=10);
+
+
+        //binary operator  we require two operands
+        int sum=age+car; //age and car are operand, + is operator.
+
+
     }
 }

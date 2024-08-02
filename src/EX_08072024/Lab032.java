@@ -8,7 +8,12 @@ public class Lab032 {
 
 
             for (float f=0;f<10.67;f++) {
-                System.out.println("Hi,float");
+                System.out.println("Hi,float");  //only prmitive data types are supported like int byte short double float char//.
+
+                for (char c='a';c<='z';c++){
+                    System.out.println(c);
+                }
+
             }
         }
 
